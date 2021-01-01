@@ -1,6 +1,6 @@
 /* Name : Jay Jung
-   Date of last edit : November 24th (My birthday lol)
-   Title : The World's Hardest Game (Could probably make it harder though)
+   Date of last edit : November 24th 
+   Title : The World's Hardest Game 
    Description : A game where you dodge Circles and collect coins
    Controls : The arrow keys and nothing else
 */
